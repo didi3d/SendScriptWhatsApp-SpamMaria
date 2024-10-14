@@ -14,6 +14,11 @@ No WhatsApp Web abra o console do Browser
 
 ``Clique com o botao direito -> clique em inspecionar -> cole o código no console e aperte Enter``
 
+
+⚠️ Aviso importante, numa atualização recente do Google Chrome, está sendo impedido que qualquer script seja colado no Console.
+Para contornar esse problema, o console do desenvolvedor espera receber um confirmação textual escrevendo no console: "allow pasting"
+Após isso será permitido colar e continuar a execução do script
+
 Pronto!
 
 Atualizado do conteudo original em: [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp)

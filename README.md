@@ -1,10 +1,10 @@
 # SendScriptWhatsApp V2 
 
-Código para enviar o Script inteiro de Shrek para seus amigos ou grupos do WhatsApp
+Código para enviar Flood de para quem me procura achando que sou Maria das Graças" em grupos do WhatsApp ou Mensagem privada.
 
 ## Utilização
 
-Abra [shrekSendScriptV2-br.js](https://github.com/alestanalves/SendScriptWhatsAppV2/blob/main/SendScriptWhatsAppV2-Shrek-PT-BR.js)
+Abra [shrekSendScriptV2-br.js](https://github.com/alestanalves/SendScriptWhatsAppV2/blob/main/SendScriptWhatsApp-SpamMaria.js)
 
 Copie todo o conteúdo 
 

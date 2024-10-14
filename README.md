@@ -4,7 +4,7 @@ Código para enviar Flood de para quem me procura achando que sou Maria das Gra�
 
 ## Utilização
 
-Abra [shrekSendScriptV2-br.js](https://github.com/alestanalves/SendScriptWhatsAppV2/blob/main/SendScriptWhatsApp-SpamMaria.js)
+Abra [SendScriptWhatsApp-SpamMaria.js](https://github.com/didi3d/SendScriptWhatsApp-SpamMaria/blob/main/SendScriptWhatsApp-SpamMaria.js)
 
 Copie todo o conteúdo 
 

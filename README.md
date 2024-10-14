@@ -1,6 +1,6 @@
-# SendScriptWhatsApp V2 
+# SendScriptWhatsApp Anti Spam 
 
-Código para enviar Flood de para quem me procura achando que sou Maria das Graças" em grupos do WhatsApp ou Mensagem privada.
+Código para enviar Flood de para quem me procura achando que sou "Maria das Graças" em grupos do WhatsApp ou Mensagem privada.
 
 ## Utilização
 
